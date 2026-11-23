@@ -41,9 +41,9 @@ Because it operates purely via Xposed hooking, **no APK patching, repackaging, o
       <td align="center"><b>Instagram (Coming Soon)</b></td>
     </tr>
     <tr>
-      <td><img src="Glassmorphism1.gif" alt="WhatsApp LiquidGlass Preview" width="320"/></td>
-      <td><img src="Glassmorphism2.gif" alt="WhatsApp LiquidGlass Preview" width="320"/></td>
-      <td><img src="Glassmorphism3.gif" alt="WhatsApp LiquidGlass Preview" width="320"/></td>
+      <td><img src="Glassmorphism1.mp4" alt="WhatsApp LiquidGlass Preview" width="320"/></td>
+      <td><img src="Glassmorphism2.mp4" alt="WhatsApp LiquidGlass Preview" width="320"/></td>
+      <td><img src="Glassmorphism3.mp4" alt="WhatsApp LiquidGlass Preview" width="320"/></td>
       <td><img src="assets/preview_instagram.gif" alt="Instagram LiquidGlass Preview" width="320"/></td>
     </tr>
   </table>
