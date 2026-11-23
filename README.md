@@ -13,7 +13,7 @@
 ​LiquidGlass is an advanced Xposed/LSPosed module designed specifically for rooted Samsung devices running modern Android versions. By hooking directly into the application's UI rendering pipeline at runtime, this module applies real-time translucent blur, glassmorphism, and fluid refraction effects (LiquidGlass) to WhatsApp (currently in Beta) and Instagram (coming soon).
 ​Because it operates purely via Xposed hooking, no APK patching, repackaging, or signature spoofing is required. Your apps remain 100% original, safe, and eligible for official updates via the Google Play Store.
 ​🎬 WhatsApp Preview (Beta)
-​Note: GitHub does not render .mp4 files inside <img> tags. If your files are .mp4, simply drag & drop them directly into the GitHub web editor to generate a playable video link, or convert them to .gif.
+​Note: GitHub does not render .mp4 files inside <img> 
 ​<div align="center">
 <table>
 <thead>
@@ -26,13 +26,13 @@
 <tbody>
 <tr>
 <td align="center">
-<img src="Glassmorphism1.mp4" alt="WhatsApp LiquidGlass Preview 1" width="260"/>
+<img src="Glassmorphism1.gif" alt="WhatsApp LiquidGlass Preview 1" width="260"/>
 </td>
 <td align="center">
-<img src="Glassmorphism2.mp4" alt="WhatsApp LiquidGlass Preview 2" width="260"/>
+<img src="Glassmorphism2.gif" alt="WhatsApp LiquidGlass Preview 2" width="260"/>
 </td>
 <td align="center">
-<img src="Glassmorphism3.mp4" alt="WhatsApp LiquidGlass Preview 3" width="260"/>
+<img src="Glassmorphism3.gif" alt="WhatsApp LiquidGlass Preview 3" width="260"/>
 </td>
 </tr>
 </tbody>
