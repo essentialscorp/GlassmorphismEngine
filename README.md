@@ -13,13 +13,7 @@
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-Beta%20Support-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://www.whatsapp.com/)
   [![Instagram](https://img.shields.io/badge/Instagram-Coming%20Soon-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
   [![License](https://img.shields.io/badge/License-GPLv3-orange?style=for-the-badge)](LICENSE)
-
-  <p align="center">
-    <a href="README.md">🇺🇸 English</a> •
-    <a href="README_ID.md">🇮🇩 Bahasa Indonesia</a> •
-    <a href="README_ES.md">🇪🇸 Español</a>
-  </p>
-
+  
 </div>
 
 ---
@@ -91,7 +85,7 @@ To ensure optimal performance and stability, please verify that your device meet
 ## 🚀 Installation & Usage
 
 1. **Prerequisites:** Ensure your Samsung device is rooted and has the latest **LSPosed (API 101–103)** installed and active.
-2. **Download:** Grab the latest `LiquidGlass-vX.X.apk` from the [Releases](../../releases) page.
+2. **Download:** Grab the latest `LiquidGlass-v0.1.100.apk` from the [Releases](../../releases) page.
 3. **Install:** Install the downloaded APK onto your device like a normal app.
 4. **Activate Module:**
    - Open the **LSPosed Manager**.
